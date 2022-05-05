@@ -1,3 +1,7 @@
+# Sobre o Projeto
+Aplicativo React criado para estudar o funcionamento das função UseState e UseEffect, além da utilização da linguagem TypeScript, nessa aplicação foi criada um lista de afazeres a qual pode ser adicionada e riscada tarefas.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
